@@ -159,8 +159,8 @@ pacman -S xf86-video-ati
 
 ### Installing XFCE and LightDM
 ```
-pacman -S xfce4 xfce4-goodies lightdm
-systemctl enable lightdm
+pacman -S xfce4 xfce4-goodies lightdm-gtk-greeter lightdm-gtk-greeter-settings
+systemctl enable lightdm.service
 ```
 
 ### Installing Misc-Packages
