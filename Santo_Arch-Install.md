@@ -3,7 +3,30 @@
 *Translation into Markdown by JayVii*
 Original Document can be found [on Santo_101's GoogleDrive](https://drive.google.com/file/d/0B2dHoo7ShqE6ZlhOYzZQcy1NWE0/view?usp=sharing)
 
-
+## Table of Contents
+1. [Install](#install)
+	* [Partitioning](#partitioning)
+	* [Filesystems](#filesystems)
+	* [Mounting the Drives](#mounting-the-drives)
+	* [Enabling Download-Mirror](#enabling-download-mirror)
+	* [Installing base-system](#installing-base-system)
+	* [Generating FStab](#generating-fstab)
+	* [Chrooting into target System and setting locales](#chrooting-into-target-system-and-setting-locales)
+	* [Setting Hostname](#setting-hostname)
+	* [Generating initcpio](#generating-initcpio)
+	* [Choosing Root-Password](#choosing-the-root-password)
+	* [Installing Bootloader, EFI- and Wireless-support](#installing-bootloader-efi--and-wireless-support)
+	* [Initializing GRUB](#initializing-grub)
+	* [Exiting Chroot and rebooting](#exiting-chroot-and-rebooting)
+2. [Post-Install](#post-install)
+	* [Adding new User](#adding-new-user)
+	* [Multilib and nonfree GPU-drivers-Repo](#multilib-and-nonfree-gpu-drivers-repo)
+	* [Add user to Sudoers](#add-user-to-sudoers)
+	* [Install Yaourt for easy AUR-access](#install-yaourt-for-easy-aur-access)
+	* [Install Xorg and GPU-drivers](#install-xorg-and-gpu-drivers)
+	* [Installing XFCE and LightDM](#installing-xfce-and-lightdm)
+	* [Installing Misc-Packages](#installing-misc-packages)
+	* [Done.](#done)
 
 ## Install
 
@@ -103,7 +126,7 @@ useradd -m -g users,wheel -s /bin/bash [YOUR-USERNAME]
 passwd [YOUR-USERNAME]
 ```
 
-### Multilib and nonfree GPU-drivers
+### Multilib and nonfree GPU-drivers-Repo
 Uncomment the *Multilib* line in `/etc/pacman.conf`.
 Also, add following ad the end of the file:
 ```
