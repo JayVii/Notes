@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/voidlinux/void-packages/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/voidlinux/void-packages/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/voidlinux/void-packages/commits/master.atom"/>
+  <title>Recent Commits to void-packages:master</title>
+  <updated>2016-04-28T13:47:18+02:00</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a7fc47bdd74f3c45470f3c62e36201f74b23e0a3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voidlinux/void-packages/commit/a7fc47bdd74f3c45470f3c62e36201f74b23e0a3"/>
+    <title>
+        python-backports.shutil_get_terminal_size: fix update-check/distfile
+    </title>
+    <updated>2016-04-28T13:47:18+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/685065?v=3&amp;s=30"/>
+    <author>
+      <name>ebfe</name>
+      <uri>https://github.com/ebfe</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>python-backports.shutil_get_terminal_size: fix update-check/distfile&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d006df11c05f923a2a0ee599c945729967186645</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voidlinux/void-packages/commit/d006df11c05f923a2a0ee599c945729967186645"/>
+    <title>
+        vdirsyncer: fix update-check/distfile
+    </title>
+    <updated>2016-04-28T13:47:18+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/685065?v=3&amp;s=30"/>
+    <author>
+      <name>ebfe</name>
+      <uri>https://github.com/ebfe</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>vdirsyncer: fix update-check/distfile&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0f2de678977a8186a393463469d9c16db86884c2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voidlinux/void-packages/commit/0f2de678977a8186a393463469d9c16db86884c2"/>
+    <title>
+        python-termcolor: fix update-check/distfile
+    </title>
+    <updated>2016-04-28T13:47:18+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/685065?v=3&amp;s=30"/>
+    <author>
+      <name>ebfe</name>
+      <uri>https://github.com/ebfe</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>python-termcolor: fix update-check/distfile&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c02ed78461b184984edf401b1d185768be9c356a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voidlinux/void-packages/commit/c02ed78461b184984edf401b1d185768be9c356a"/>
+    <title>
+        python-tempita: fix update-check/distfile
+    </title>
+    <updated>2016-04-28T13:47:18+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/685065?v=3&amp;s=30"/>
+    <author>
+      <name>ebfe</name>
+      <uri>https://github.com/ebfe</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>python-tempita: fix update-check/distfile&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/53cd23eeac59285396879648835fa1ccc9112676</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voidlinux/void-packages/commit/53cd23eeac59285396879648835fa1ccc9112676"/>
+    <title>
+        python-setproctitle: fix update-check/distfile
+    </title>
+    <updated>2016-04-28T13:47:17+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/685065?v=3&amp;s=30"/>
+    <author>
+      <name>ebfe</name>
+      <uri>https://github.com/ebfe</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>python-setproctitle: fix update-check/distfile&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/348a95515bb750266add4d9c835ba9944469e19c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voidlinux/void-packages/commit/348a95515bb750266add4d9c835ba9944469e19c"/>
+    <title>
+        python-pytz: fix update-check/distfile
+    </title>
+    <updated>2016-04-28T13:47:17+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/685065?v=3&amp;s=30"/>
+    <author>
+      <name>ebfe</name>
+      <uri>https://github.com/ebfe</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>python-pytz: fix update-check/distfile&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e4a16b382f982c216edcb9c01eb0432c778b6c08</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voidlinux/void-packages/commit/e4a16b382f982c216edcb9c01eb0432c778b6c08"/>
+    <title>
+        python-pylastfp: fix update-check/distfile
+    </title>
+    <updated>2016-04-28T13:47:17+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/685065?v=3&amp;s=30"/>
+    <author>
+      <name>ebfe</name>
+      <uri>https://github.com/ebfe</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>python-pylastfp: fix update-check/distfile&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/751b6982976430ff3fbaee807cbe7191b2446dd7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voidlinux/void-packages/commit/751b6982976430ff3fbaee807cbe7191b2446dd7"/>
+    <title>
+        python-pyacoustid: fix update-check/distfile
+    </title>
+    <updated>2016-04-28T13:47:17+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/685065?v=3&amp;s=30"/>
+    <author>
+      <name>ebfe</name>
+      <uri>https://github.com/ebfe</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>python-pyacoustid: fix update-check/distfile&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e518433d260622f957cf211ec4c8bcdbbfa2307a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voidlinux/void-packages/commit/e518433d260622f957cf211ec4c8bcdbbfa2307a"/>
+    <title>
+        python-path: fix update-check/distfile
+    </title>
+    <updated>2016-04-28T13:47:17+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/685065?v=3&amp;s=30"/>
+    <author>
+      <name>ebfe</name>
+      <uri>https://github.com/ebfe</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>python-path: fix update-check/distfile&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7269f65a7ed62049be26002723304ca26bc00dcf</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voidlinux/void-packages/commit/7269f65a7ed62049be26002723304ca26bc00dcf"/>
+    <title>
+        python-pam: fix update-check/distfile
+    </title>
+    <updated>2016-04-28T13:32:07+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/685065?v=3&amp;s=30"/>
+    <author>
+      <name>ebfe</name>
+      <uri>https://github.com/ebfe</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>python-pam: fix update-check/distfile&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b6c889a0f2956698e0b330705e35ce7fee159826</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voidlinux/void-packages/commit/b6c889a0f2956698e0b330705e35ce7fee159826"/>
+    <title>
+        python-munkres: fix update-check/distfile
+    </title>
+    <updated>2016-04-28T13:31:41+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/685065?v=3&amp;s=30"/>
+    <author>
+      <name>ebfe</name>
+      <uri>https://github.com/ebfe</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>python-munkres: fix update-check/distfile&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8996d9b79205af80317ea7f73ad70d7276e566f4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voidlinux/void-packages/commit/8996d9b79205af80317ea7f73ad70d7276e566f4"/>
+    <title>
+        python-lz4: fix update-check/distfile
+    </title>
+    <updated>2016-04-28T13:31:05+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/685065?v=3&amp;s=30"/>
+    <author>
+      <name>ebfe</name>
+      <uri>https://github.com/ebfe</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>python-lz4: fix update-check/distfile&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/986878f75c9bb75ece9610bec41ca75850bcfbed</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voidlinux/void-packages/commit/986878f75c9bb75ece9610bec41ca75850bcfbed"/>
+    <title>
+        python-imagesize: fix update-check/distfile
+    </title>
+    <updated>2016-04-28T13:30:34+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/685065?v=3&amp;s=30"/>
+    <author>
+      <name>ebfe</name>
+      <uri>https://github.com/ebfe</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>python-imagesize: fix update-check/distfile&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9fdd5419c161dbb8a5f879491faed14b2283748c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voidlinux/void-packages/commit/9fdd5419c161dbb8a5f879491faed14b2283748c"/>
+    <title>
+        python-dulwich: fix update-check/distfile
+    </title>
+    <updated>2016-04-28T13:29:50+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/685065?v=3&amp;s=30"/>
+    <author>
+      <name>ebfe</name>
+      <uri>https://github.com/ebfe</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>python-dulwich: fix update-check/distfile&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ddfc4adc9c77e9c5bff782902a1a9095f78a463e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voidlinux/void-packages/commit/ddfc4adc9c77e9c5bff782902a1a9095f78a463e"/>
+    <title>
+        python-dateutil: fix update-check/distfile
+    </title>
+    <updated>2016-04-28T13:29:08+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/685065?v=3&amp;s=30"/>
+    <author>
+      <name>ebfe</name>
+      <uri>https://github.com/ebfe</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>python-dateutil: fix update-check/distfile&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4f4e45648f5a8bc5e04cce2917c51d857497a322</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voidlinux/void-packages/commit/4f4e45648f5a8bc5e04cce2917c51d857497a322"/>
+    <title>
+        python-cssselect: fix update-check/distfile
+    </title>
+    <updated>2016-04-28T13:26:39+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/685065?v=3&amp;s=30"/>
+    <author>
+      <name>ebfe</name>
+      <uri>https://github.com/ebfe</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>python-cssselect: fix update-check/distfile&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/36052aab918fc910807f7cac551d580f7e54cc56</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voidlinux/void-packages/commit/36052aab918fc910807f7cac551d580f7e54cc56"/>
+    <title>
+        python-cheetah: fix update-check/distfile
+    </title>
+    <updated>2016-04-28T13:25:52+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/685065?v=3&amp;s=30"/>
+    <author>
+      <name>ebfe</name>
+      <uri>https://github.com/ebfe</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>python-cheetah: fix update-check/distfile&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/180537b9b2a1493c4973c80e22b37faa0c8def52</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voidlinux/void-packages/commit/180537b9b2a1493c4973c80e22b37faa0c8def52"/>
+    <title>
+        python-cffi: fix update-check/distfile
+    </title>
+    <updated>2016-04-28T13:25:03+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/685065?v=3&amp;s=30"/>
+    <author>
+      <name>ebfe</name>
+      <uri>https://github.com/ebfe</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>python-cffi: fix update-check/distfile&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/83c29aa1ceb4298c9a56d9a0c7a198d9f79fe1f0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voidlinux/void-packages/commit/83c29aa1ceb4298c9a56d9a0c7a198d9f79fe1f0"/>
+    <title>
+        python-bsddb3: fix update-check/distfile
+    </title>
+    <updated>2016-04-28T13:23:55+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/685065?v=3&amp;s=30"/>
+    <author>
+      <name>ebfe</name>
+      <uri>https://github.com/ebfe</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>python-bsddb3: fix update-check/distfile&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e1dfa595988bef2305205ceb6aa42e165f302e0e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/voidlinux/void-packages/commit/e1dfa595988bef2305205ceb6aa42e165f302e0e"/>
+    <title>
+        python-blinker: fix update-check/distfile
+    </title>
+    <updated>2016-04-28T13:22:53+02:00</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/685065?v=3&amp;s=30"/>
+    <author>
+      <name>ebfe</name>
+      <uri>https://github.com/ebfe</uri>
+    </author>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>python-blinker: fix update-check/distfile&lt;/pre>
+    </content>
+  </entry>
+</feed>
