@@ -1,6 +1,6 @@
 # Music that I NEED to get
 - [ ] Still need this item
-- [-] Already got this item
+- [X] Already got this item
 
 ## Adept
 - [ ] Hopeless Illusions
