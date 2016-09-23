@@ -19,13 +19,14 @@
 - [ ] The Here and Now
 - [X] Daybreaker
 - [X] Lost Forever // Lost Together
-- [X] All Of Our Gods Have Abandoned Us
+- [X] All Our Gods Have Abandoned Us
 
 ## Billy Talent
 - [X] Billy Talent
 - [X] Billy Talent II
 - [X] Billy Talent III
-- [X] Dead Silence
+- [X] Dead Silenc
+- [ ] Afraid of Heights
 
 ## blessthefall
 - [ ] His Last Walk
@@ -39,6 +40,9 @@
 - [X] Two
 - [ ] The Silver Lining
 - [ ] Aftermath
+
+## Enter Shikari
+- [ ] Take To The Skies
 
 ## Fit For A King
 - [ ] Descendants
