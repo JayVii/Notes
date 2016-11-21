@@ -16,7 +16,7 @@
 - [ ] Ruin
 - [ ] Hollow Crown
 - [ ] The Hollow Crown
-- [ ] The Here and Now
+- [X] The Here and Now
 - [X] Daybreaker
 - [X] Lost Forever // Lost Together
 - [X] All Our Gods Have Abandoned Us
