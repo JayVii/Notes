@@ -1,0 +1,29 @@
+# Plan for Server-Upgrade
+
+- 500GB internal HDD 
+  - NixOS
+    - Kodi
+    - SSH
+    - Weechat [https://irc.jayvii.de]
+    - MPD-Stream [https://music.jayvii.de]
+    - (whatever game) [raw://host.jayvii.de]
+      - Game-files
+    - Apache / NGINX
+      - (main-page) [https://jayvii.de/]
+        - (stats-page) [https://jayvii.de/stats]
+      - Kallithea / cgit [https://jayvii.de/git/]
+        - Git-Repositories
+    - Docker
+      - Owncloud / Nextcloud [https://jayvii.de/cloud/]
+      - Wallabag [https://jayvii.de/wallabag/]
+- 2TB external HDD #1
+  - Cloud-storage
+  - Music-library
+  - Video-library
+  - Images
+  - Documents
+- 2TB external HDD #2
+  - Backups via rsync
+    - ext HDD #1
+    - Git-Repos
+    - Notebook SSD
