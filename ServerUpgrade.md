@@ -4,7 +4,9 @@
   - NixOS
     - Kodi
     - SSH
-    - Weechat [https://irc.jayvii.de]
+    - Tmux
+      - NGrok
+      - Weechat [https://irc.jayvii.de]
     - MPD-Stream [https://music.jayvii.de]
     - (whatever game) [raw://host.jayvii.de]
       - Game-files
