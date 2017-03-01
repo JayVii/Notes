@@ -15,7 +15,6 @@
 - [ ] Nightmares 
 - [ ] Ruin
 - [ ] Hollow Crown
-- [ ] The Hollow Crown
 - [X] The Here and Now
 - [X] Daybreaker
 - [X] Lost Forever // Lost Together
@@ -26,7 +25,7 @@
 - [X] Billy Talent II
 - [X] Billy Talent III
 - [X] Dead Silenc
-- [ ] Afraid of Heights
+- [X] Afraid of Heights
 
 ## blessthefall
 - [ ] His Last Walk
@@ -76,3 +75,11 @@
 - [X] Appeal To Reason
 - [X] Endgame
 - [X] The Black Market
+
+## Bring Me The Horizon
+- [ ] Sempiternal
+
+## We Came as Romans
+- [ ] Tracing Back Roots
+- [ ] Understanding What We've grown to be
+- [ ] I Knew You Were Trouble
