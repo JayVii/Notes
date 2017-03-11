@@ -7,7 +7,7 @@
     - Tmux
       - NGrok
       - Weechat [https://irc.jayvii.de]
-    - MPD-Stream [https://music.jayvii.de]
+    - MPD-Stream / LibreSonic [https://music.jayvii.de]
     - (whatever game) [raw://host.jayvii.de]
       - Game-files
     - Apache / NGINX
