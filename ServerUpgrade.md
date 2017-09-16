@@ -1,29 +1,29 @@
 # Plan for Server-Upgrade
 
-- 500GB internal HDD 
-  - NixOS
-    - Kodi
-    - SSH
+- 500GB internal HDD
+  - Slackware (14.2)
+    - Firefox
+      - [Gaudium](https://www.jayvii.de/git/JayVii/Gaudium)
+    - OpenSSH
+      - SSH
+      - SFTP
+    - MonstaFTP
     - Tmux
       - NGrok
-      - Weechat [https://irc.jayvii.de]
-    - MPD-Stream / LibreSonic [https://music.jayvii.de]
-    - (whatever game) [raw://host.jayvii.de]
-      - Game-files
+      - [TheLounge](https://www.jayvii.de/irc)
+    - [CherryMusic](https://www.jayvii.de/music)
     - Apache / NGINX
-      - (main-page) [https://jayvii.de/]
-        - (stats-page) [https://jayvii.de/stats]
-      - Kallithea / cgit [https://jayvii.de/git/]
-        - Git-Repositories
-    - Docker
-      - Owncloud / Nextcloud [https://jayvii.de/cloud/]
-      - Wallabag [https://jayvii.de/wallabag/]
+      - [WWW](https://www.jayvii.de/)
+      - [Gogs](https://www.jayvii.de/git)
+      - [Perlanet-Feeds](https://www.jayvii.de/feeds)
 - 2TB external HDD #1
-  - Cloud-storage
   - Music-library
   - Video-library
+  - Movie-library
+  - Series-library
   - Images
   - Documents
+  - (git-content?)
 - 2TB external HDD #2
   - Backups via rsync
     - ext HDD #1
