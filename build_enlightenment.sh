@@ -43,6 +43,7 @@ for PROJ in $PROJECTS_CORE; do
     sudo make install
     cd ..
     sudo ldconfig
+    date +%H:%M:%S-%d.%m.%Y >> $LOG
     echo $PROJ" is installed" >> $LOG
 done
 
@@ -67,6 +68,7 @@ for PROJ in $PROJECTS_APPS; do
     sudo make install
     cd ..
     sudo ldconfig
+    date +%H:%M:%S-%d.%m.%Y >> $LOG
     echo $PROJ" is installed" >> $LOG
 done
 
@@ -91,6 +93,7 @@ for PROJ in $PROJECTS_MISC; do
     sudo make install
     cd ..
     sudo ldconfig
+    date +%H:%M:%S-%d.%m.%Y >> $LOG
     echo $PROJ" is installed" >> $LOG
 done
 
