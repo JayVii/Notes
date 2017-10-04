@@ -11,6 +11,11 @@
 **C-p**	....... Go to previous line
 
 
+**M-a** ....... Go to beginning of sentence
+
+**M-e** ....... Go to end of sentence
+
+
 **ESC f** ..... Go to next word
 
 **ESC b** ..... Go to previous word
@@ -24,6 +29,11 @@
 **C-k**	....... Kill current line
 
 **C-o**	....... Open new line
+
+
+**C-v** ....... Scroll down
+
+**M-v** ....... Scroll up
 
 
 ## Regions
@@ -60,7 +70,7 @@
 
 ## ESS
 
-**C-q**	....... Send current line to ESS-buffer
+**M-RET** ..... Send current line to ESS-buffer
 
 
 ## AucTeX
