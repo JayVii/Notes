@@ -1,5 +1,5 @@
 # Music that I NEED to get
-- [X] Already got this item
+- [x] Already got this item
 - [ ] Still need this item
 - [ ] **Desperately want this item**
 - [ ] *Want this item some time down the road*
@@ -11,24 +11,24 @@
 - [ ] Another Year of Disaster
 - [ ] **Death Dealers**
 - [ ] Silence The World
-- [X] Sleepless
+- [x] Sleepless
 
 ## Architects
 - [ ] Nightmares
 - [ ] *Ruin*
 - [ ] **Hollow Crown**
-- [X] The Here and Now
-- [X] Daybreaker
+- [x] The Here and Now
+- [x] Daybreaker
 - [ ] *Daybreaker (Deluxe)*
-- [X] Lost Forever // Lost Together
-- [X] All Our Gods Have Abandoned Us
+- [x] Lost Forever // Lost Together
+- [x] All Our Gods Have Abandoned Us
 
 ## Billy Talent
-- [X] Billy Talent
-- [X] Billy Talent II
-- [X] Billy Talent III
-- [X] Dead Silence
-- [X] Afraid of Heights
+- [x] Billy Talent
+- [x] Billy Talent II
+- [x] Billy Talent III
+- [x] Dead Silence
+- [x] Afraid of Heights
 
 ## blessthefall
 - [ ] His Last Walk
@@ -39,7 +39,7 @@
 
 ## Earshot
 - [ ] *Letting Go*
-- [X] Two
+- [x] Two
 - [ ] *The Silver Lining*
 - [ ] *Aftermath*
 
@@ -54,7 +54,7 @@
 ## La Dispute
 - [ ] *Vancouver*
 - [ ] *Somewhere at the Bottom of the River Between Vega and Altair*
-- [X] Wildlife
+- [x] Wildlife
 - [ ] Rooms Of The House
 
 ## Northlane
@@ -71,14 +71,14 @@
 - [ ] Ire
 
 ## Rise Against
-- [X] The Unraveling
-- [X] Revolutions Per Minute
-- [X] Siren Song Of The Counter Culture
-- [X] The Sufferer & The Witness
-- [X] Appeal To Reason
-- [X] Endgame
-- [X] The Black Market
-- [X] Wolves
+- [x] The Unraveling
+- [x] Revolutions Per Minute
+- [x] Siren Song Of The Counter Culture
+- [x] The Sufferer & The Witness
+- [x] Appeal To Reason
+- [x] Endgame
+- [x] The Black Market
+- [x] Wolves
 
 ## Bring Me The Horizon
 - [ ] *Sempiternal*
