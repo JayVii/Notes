@@ -1,23 +1,25 @@
 # Music that I NEED to get
-- [ ] Still need this item
 - [X] Already got this item
+- [ ] Still need this item
+- [ ] **Desperately want this item**
+- [ ] *Want this item some time down the road*
 
 ## Adept
-- [ ] Hopeless Illusions
-- [ ] When The Sun Gave Up The Sky
-- [ ] The Rose Will Decay
+- [ ] *Hopeless Illusions*
+- [ ] *When The Sun Gave Up The Sky*
+- [ ] *The Rose Will Decay*
 - [ ] Another Year of Disaster
-- [ ] Death Dealers
+- [ ] **Death Dealers**
 - [ ] Silence The World
 - [X] Sleepless
 
 ## Architects
-- [ ] Nightmares 
-- [ ] Ruin
-- [ ] Hollow Crown
+- [ ] Nightmares
+- [ ] *Ruin*
+- [ ] **Hollow Crown**
 - [X] The Here and Now
 - [X] Daybreaker
-- [ ] Daybreaker (Deluxe)
+- [ ] *Daybreaker (Deluxe)*
 - [X] Lost Forever // Lost Together
 - [X] All Our Gods Have Abandoned Us
 
@@ -25,7 +27,7 @@
 - [X] Billy Talent
 - [X] Billy Talent II
 - [X] Billy Talent III
-- [X] Dead Silenc
+- [X] Dead Silence
 - [X] Afraid of Heights
 
 ## blessthefall
@@ -36,36 +38,36 @@
 - [ ] To Those Left Behind
 
 ## Earshot
-- [ ] Letting Go
+- [ ] *Letting Go*
 - [X] Two
-- [ ] The Silver Lining
-- [ ] Aftermath
+- [ ] *The Silver Lining*
+- [ ] *Aftermath*
 
 ## Enter Shikari
-- [ ] Take To The Skies
+- [ ] **Take To The Skies**
 
 ## Fit For A King
-- [ ] Descendants
-- [ ] Creation/Destruction
-- [ ] Slave To Nothing
+- [ ] *Descendants*
+- [ ] *Creation/Destruction*
+- [ ] *Slave To Nothing*
 
 ## La Dispute
-- [ ] Vancouver
-- [ ] Somewhere at the Bottom of the River Between Vega and Altair
+- [ ] *Vancouver*
+- [ ] *Somewhere at the Bottom of the River Between Vega and Altair*
 - [X] Wildlife
 - [ ] Rooms Of The House
 
 ## Northlane
-- [ ] Discoveries
-- [ ] Singularity
-- [ ] Hollow Existence
-- [ ] Node
+- [ ] *Discoveries*
+- [ ] *Singularity*
+- [ ] *Hollow Existence*
+- [ ] *Node*
 
 ## Parkway Drive
-- [ ] Killing With A Smile
-- [ ] Horizons
-- [ ] Deep Blue
-- [ ] Atlas
+- [ ] *Killing With A Smile*
+- [ ] *Horizons*
+- [ ] *Deep Blue*
+- [ ] *Atlas*
 - [ ] Ire
 
 ## Rise Against
@@ -79,10 +81,10 @@
 - [X] Wolves
 
 ## Bring Me The Horizon
-- [ ] Sempiternal
+- [ ] *Sempiternal*
 - [ ] That's the Spirit
 
 ## We Came as Romans
-- [ ] Tracing Back Roots
-- [ ] Understanding What We've grown to be
-- [ ] I Knew You Were Trouble
+- [ ] *Tracing Back Roots*
+- [ ] *Understanding What We've grown to be*
+- [ ] *I Knew You Were Trouble*
