@@ -17,6 +17,7 @@
 - [ ] Hollow Crown
 - [X] The Here and Now
 - [X] Daybreaker
+- [ ] Daybreaker (Deluxe)
 - [X] Lost Forever // Lost Together
 - [X] All Our Gods Have Abandoned Us
 
@@ -75,9 +76,11 @@
 - [X] Appeal To Reason
 - [X] Endgame
 - [X] The Black Market
+- [X] Wolves
 
 ## Bring Me The Horizon
 - [ ] Sempiternal
+- [ ] That's the Spirit
 
 ## We Came as Romans
 - [ ] Tracing Back Roots
