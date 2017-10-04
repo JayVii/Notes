@@ -1,8 +1,12 @@
-# Music that I NEED to get
+# Music I own / do not own
 - [x] Already got this item
 - [ ] Still need this item
 - [ ] **Desperately want this item**
 - [ ] *Want this item some time down the road*
+
+***
+
+***
 
 ## Adept
 - [ ] *Hopeless Illusions*
@@ -10,7 +14,7 @@
 - [ ] *The Rose Will Decay*
 - [ ] Another Year of Disaster
 - [ ] **Death Dealers**
-- [ ] Silence The World
+- [ ] **Silence The World**
 - [x] Sleepless
 
 ## Architects
@@ -37,6 +41,10 @@
 - [ ] Hollow Bodies
 - [ ] To Those Left Behind
 
+## Bring Me The Horizon
+- [ ] *Sempiternal*
+- [ ] That's the Spirit
+
 ## Earshot
 - [ ] *Letting Go*
 - [x] Two
@@ -45,6 +53,8 @@
 
 ## Enter Shikari
 - [ ] **Take To The Skies**
+- [ ] A Flash Flood Of Colour
+- [ ] **The Mindsweep**
 
 ## Fit For A King
 - [ ] *Descendants*
@@ -63,6 +73,9 @@
 - [ ] *Hollow Existence*
 - [ ] *Node*
 
+## Oceans Ate Alaska
+- [ ] *Hikari*
+
 ## Parkway Drive
 - [ ] *Killing With A Smile*
 - [ ] *Horizons*
@@ -79,10 +92,6 @@
 - [x] Endgame
 - [x] The Black Market
 - [x] Wolves
-
-## Bring Me The Horizon
-- [ ] *Sempiternal*
-- [ ] That's the Spirit
 
 ## We Came as Romans
 - [ ] *Tracing Back Roots*
