@@ -2,7 +2,7 @@
 - [x] Already got this item
 - [ ] Still need this item
 - [ ] **Desperately want this item**
-- [ ] *Want this item some time down the road*
+- [ ] *May get this item some time down the road*
 
 ***
 
@@ -74,7 +74,7 @@
 - [ ] *Node*
 
 ## Oceans Ate Alaska
-- [ ] *Hikari*
+- [ ] **Hikari**
 
 ## Parkway Drive
 - [ ] *Killing With A Smile*
