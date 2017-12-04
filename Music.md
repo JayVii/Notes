@@ -1,4 +1,6 @@
 # Music I own / do not own
+
+### Legend
 - [x] Already got this item
 - [ ] Still need this item
 - [ ] **Desperately want this item**
@@ -55,6 +57,7 @@
 - [ ] **Take To The Skies**
 - [ ] A Flash Flood Of Colour
 - [ ] **The Mindsweep**
+- [ ] The Spark
 
 ## Fit For A King
 - [ ] *Descendants*
@@ -74,7 +77,10 @@
 - [ ] *Node*
 
 ## Oceans Ate Alaska
-- [ ] **Hikari**
+- [x] Hikari
+- [ ] Lost Isles
+- [ ] Taming Lions
+- [ ] Into the Deep
 
 ## Parkway Drive
 - [ ] *Killing With A Smile*
