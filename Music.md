@@ -16,13 +16,13 @@
 - [ ] *The Rose Will Decay*
 - [ ] Another Year of Disaster
 - [ ] **Death Dealers**
-- [ ] **Silence The World**
+- [x] Silence The World
 - [x] Sleepless
 
 ## Architects
 - [ ] Nightmares
 - [ ] *Ruin*
-- [ ] **Hollow Crown**
+- [x] Hollow Crown
 - [x] The Here and Now
 - [x] Daybreaker
 - [ ] *Daybreaker (Deluxe)*
@@ -54,7 +54,7 @@
 - [ ] *Aftermath*
 
 ## Enter Shikari
-- [ ] **Take To The Skies**
+- [x] Take To The Skies
 - [ ] A Flash Flood Of Colour
 - [ ] **The Mindsweep**
 - [ ] The Spark
