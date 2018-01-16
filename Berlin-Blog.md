@@ -14,3 +14,4 @@
 ## KW 3: 15.01.18 - 21.01.18
 
 - 15.01. Promo-Order Versand, Polina und Erik kennen lernen, erste Pull-Requests für die PMPC-Kampagne, Shakshuka am Abend gekocht
+- 16.01. Überarbeitung interner Wiki-Seiten, 1-Stündiges Staff-meeting, anschließendes Essen (vietnam.), Meeting mit Max (PMPC, ILFS), Merchandise-Versand, beginn Coding des PDF-Scrapers
