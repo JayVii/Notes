@@ -15,3 +15,10 @@
 
 - 15.01. Promo-Order Versand, Polina und Erik kennen lernen, erste Pull-Requests für die PMPC-Kampagne, Shakshuka am Abend gekocht
 - 16.01. Überarbeitung interner Wiki-Seiten, 1-Stündiges Staff-meeting, anschließendes Essen (vietnam.), Meeting mit Max (PMPC, ILFS), Merchandise-Versand, beginn Coding des PDF-Scrapers
+- 17.01. beginn Coding Social-Media-Scrapers (Twitter, Probleme mit FB-registrierung), Versand von Merchandise-Bestellungen, Abends Vortrag über Freifunk in der FU-Berlin
+- 18.01. vorerst Fertigstellung des Social-Media-Scrapers (Mastodon/Fediverse), Promo-Order Versand
+- 19.01. beginn Dokumentation des Social-Media-Scrapers, Abends poetry slam im SO36
+- 20.01. Ausschlafen, Organisieren (liegen gebliebene Arbeiten der Woche), Haushalt
+- 21.01.
+
+## KW 4: 22.01.18 - 28.01.18
