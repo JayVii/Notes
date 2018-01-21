@@ -19,6 +19,6 @@
 - 18.01. vorerst Fertigstellung des Social-Media-Scrapers (Mastodon/Fediverse), Promo-Order Versand
 - 19.01. beginn Dokumentation des Social-Media-Scrapers, Abends poetry slam im SO36
 - 20.01. Ausschlafen, Organisieren (liegen gebliebene Arbeiten der Woche), Haushalt
-- 21.01.
+- 21.01. Querstadtein Tour / Obdachlosen-Geführte-Stadttour
 
 ## KW 4: 22.01.18 - 28.01.18
